@@ -1,0 +1,1 @@
+Hi there, I'm Michael. I'm interested in software development. I like learning about different computer things such as ML, physics simulation, numerical methods, web dev, efficient algorithms, compilers, operating systems.
